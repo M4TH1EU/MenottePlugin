@@ -1,0 +1,9 @@
+name: MenottePlugin
+main: ch.m4th1eu.handcuffs.Main
+version: 1.0.0
+author: M4TH1EU - mathieubroillet.ch
+commands:
+   mn:
+      description: Base de toutes les commandes.
+      aliases: hc
+      usage: §6[Menottes] §a Usage : /mn [transport - menotte - libere] [nom du joueur]
